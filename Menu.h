@@ -1,0 +1,11 @@
+#define IDM_CLIENT			100
+#define IDM_SERVER			101
+#define IDM_TCP				102
+#define IDM_UDP				103
+#define IDM_IPPORTINPUT		104
+#define IDM_PACKETSIZETIMES	105
+#define IDM_UPLOADFILE		106
+#define IDM_START			107
+#define IDM_EXIT			108
+#define IDM_HELP			109
+#define IDM_RESET			110
